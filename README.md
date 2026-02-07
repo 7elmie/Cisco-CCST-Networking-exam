@@ -271,4 +271,3 @@ If you understand the content above → **you can pass the exam**.
 * Practice ping/traceroute logic
 
 ---
-i generated most of this with AI, but it's handy.
